@@ -1,0 +1,29 @@
+Linnar Hooten Homes
+Forest Park Development
+
+Current Home Availability List
+
+Lot Model        Bed/Ba   Price     Down(10%)  Mon(30yr)  Mon(15yr) |  Down(20%) Mon(30yr)  Mon(15yr)
+                                                                    |
+1   Briarcrest   2bd/2ba    896,333   89,633    5509.47    7170.68  |  179,267    4527.63    6051.01
+2   Woodhaven    3bd/2ba    995,500   99,550    6119.02    7964.02  |  199,100    5028.55    6720.48
+3   Stoneypoint  4bd/3ba  1,136,000  113,600    6982.63    9088.02  |  227,200    5738.26    7668.97
+6   Briarcrest   2bd/2ba    905,000   90,500    5562.74    7240.02  |  181,000    4571.41    6109.52
+7   Woodhaven    3bd/2ba    998,990   99,899    6140.47    7991.94  |  199,798    5046.18    6744.04
+10  Windsor      5bd/3ba  1,399,850  139,985    8604.43   11198.83  |  279,970    7071.04    9450.18
+112 Creekside    4bd/3ba  1,425,000  142,500    8759.02   11400.03  |  285,000    7198.08    9619.97
+116 Creekside    4bd/3ba  1,428,750  142,875    8782.07   11430.03  |  285,750    7217.02    9645.28
+120 Riverglen    3bd/3ba  1,320,440  132,044    8116.32   10563.55  |  264,088    6669.92    8914.10
+
+Total Project Inventory Value: $22,057,843 (18 homes)
+Total Available Inventory Value: $10,505,863 (9 homes)
+Home Percentage Closed: 50.0%
+Unrealized Salesperson Commission: $157,588
+
+Basis for Monthly Payments
+10.0% down 30 year - 6.99% plus PMI of 0.22%
+10.0% down 15 year - 6.49% plus PMI of 0.22%
+20.0% down 30 year - 6.49%
+20.0% down 15 year - 6.00%
+
+All percentages are for well-qualified buyers.
